@@ -65,13 +65,3 @@ GitHub: https://github.com/dinaamer488
 License
 
 This project is licensed under the MIT License.
-
----
-
-If you'd like, I can also create:
-
-- A shorter minimal version  
-- A more professional version with badges  
-- A version that includes screenshots  
-
-Just tell me!
